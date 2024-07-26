@@ -17,3 +17,6 @@ This project contains detailed manual test cases for testing the login page of F
 - Validation of input fields.
 - Error message validation.
 - Testing different user scenarios.
+
+## Test Cases
+![Screenshot (114)](https://github.com/user-attachments/assets/6dbc8afb-0ba0-4aca-bacb-ea2131f12657)
